@@ -1,3 +1,3 @@
 #!/bin/bash
-echo $PATH > task_1.txt
-chmod 400 task_1.txt
+echo $PATH > lab1.txt
+chmod 400 lab1.txt
